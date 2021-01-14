@@ -6,7 +6,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-*	https://github.com/EkaterinaPeregudova/java1.1/issues/3
+*	[При запуске KeyValidator подходит нерабочий ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/EkaterinaPeregudova/java1.1/issues/3)
 *	https://github.com/EkaterinaPeregudova/java1.1/issues/2
 *	https://github.com/EkaterinaPeregudova/java1.1/issues/1
 
