@@ -7,8 +7,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 *	[При запуске KeyValidator подходит нерабочий ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1](https://github.com/EkaterinaPeregudova/java1.1/issues/3)
-*	[При запуске KeyValidator рабочий ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 не подходит] (https://github.com/EkaterinaPeregudova/java1.1/issues/2)
-*	[При запуске KeyValidator рабочий ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 не подходит] (https://github.com/EkaterinaPeregudova/java1.1/issues/1)
+*	[При запуске KeyValidator рабочий ключ 387eedc6-12e9-3b32-9881-63b6b5e85317 не подходит](hhttps://github.com/EkaterinaPeregudova/java1.1/issues/2)
+*	[При запуске KeyValidator рабочий ключ 80b427f8-92cd-3aae-ba04-3927fbe17c6 не подходит](https://github.com/EkaterinaPeregudova/java1.1/issues/1)
 
  ## Описание процесса тестирования
 
